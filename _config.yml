@@ -1,2 +1,4 @@
 name: Lie Meng Pang
 markdown: kramdown
+
+theme: jekyll-theme-minimal
