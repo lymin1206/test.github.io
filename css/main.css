@@ -27,12 +27,13 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    margin:2px;
+    margin:3px;
 }
 p1 {
     font-size: 1.25em;
     line-height: 1.4em;
     color: #333;
+    margin:10px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
